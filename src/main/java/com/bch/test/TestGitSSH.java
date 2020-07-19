@@ -20,7 +20,7 @@ public class TestGitSSH {
 		System.out.println("3test git ssh");
 		System.out.println("TestGitSSH:test conflict");
 		System.out.println("TestGitSSH:test conflict");
-		System.out.println("hot fix....");
+		System.out.println("hot fix.....");
 	}
 
 }
