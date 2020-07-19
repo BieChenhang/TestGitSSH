@@ -16,6 +16,7 @@ public class TestGitSSH {
 	*/
 	public static void main(String[] args) {
 		System.out.println("test git ssh");
+		System.out.println("2test git ssh");
 	}
 
 }
